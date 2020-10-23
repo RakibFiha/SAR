@@ -13,3 +13,6 @@ Install dependencies
 pip3 install -r requirements.txt
 ```
 
+Download sample [SICD][1]
+
+[1]: https://github.com/ngageoint/six-library/wiki/Sample-SICDs
